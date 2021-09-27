@@ -1,3 +1,3 @@
 # Hello-World
 
-Test Github repository creation
+Hello world!
